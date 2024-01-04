@@ -1,4 +1,4 @@
-﻿# Product Management System
+﻿# Book Store System
 
 This is a simple Book Store project built with [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core).
 
